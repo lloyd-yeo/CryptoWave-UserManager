@@ -282,7 +282,7 @@
 											</p>
 
 											<p>
-												The reason CryptoWave mines for Monero is due to it's underlying algorithm which is friendly for CPU mining, making it easy for anyone without specialized mining rigs to mine for Monero.
+												The rationale CryptoWave mines for Monero is due to it's underlying algorithm which is friendly for CPU mining, making it easy for anyone without specialized mining rigs to mine for Monero.
 											</p>
 										</div>
 									</div>
