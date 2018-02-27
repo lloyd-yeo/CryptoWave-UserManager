@@ -53,7 +53,7 @@ class MinerClientController extends Controller
 	{
 		return '"pool_list" :
 				[
-					{"pool_address" : "http://159.89.197.169:3333", 
+					{"pool_address" : "http://frankfurt-1.xmrpool.net:3333", 
 					"wallet_address" : "48WCGXaoL7gUY8fwSxUPgR4VYx4iVTJYEF4jP7Uq4jG26Hz9Gc6QjgU1m7Hht5pBPJbccCyR4khkZD88wSwErkRt2FkmpNH", 
 					"pool_password" : "' . Auth::user()->email . '", 
 					"use_nicehash" : true, 
